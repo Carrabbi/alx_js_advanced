@@ -8,6 +8,7 @@ function Main({ children }) {
   return (
     <>
       <Header />
+
       <main>{children}</main>
       <Footer />
     </>
