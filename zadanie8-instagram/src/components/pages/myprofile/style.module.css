@@ -1,0 +1,13 @@
+.imgAv {
+max-width: 200px;
+max-height: auto;
+}
+
+.formMyProfile {
+  max-width: 450px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+}
